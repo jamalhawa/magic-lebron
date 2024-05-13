@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+
+#input {
+  background-color: black;
+  border-color: white;
+  color: white;
+}
+
+p {
+  font-weight: bold;
+}
+
+h3 {
+  font-weight: lighter;
+}
